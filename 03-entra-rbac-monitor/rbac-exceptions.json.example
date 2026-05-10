@@ -1,0 +1,17 @@
+[
+  {
+    "ref_id": "00000000-0000-0000-0000-000000000001",
+    "account_enabled": true,
+    "description": "Break-glass emergency admin account — intentionally holds Global Administrator. Reviewed and approved 2024-01-15."
+  },
+  {
+    "ref_id": "00000000-0000-0000-0000-000000000002",
+    "account_enabled": false,
+    "description": "Service account pending decommission — IT ticket #1234 open. Role removal blocked by dependent automation until 2024-03-01."
+  },
+  {
+    "ref_id": "00000000-0000-0000-0000-000000000003",
+    "account_enabled": true,
+    "description": "Defender for Cloud Apps service principal — requires Security Reader for MCAS integration. Approved by CISO 2024-02-10."
+  }
+]

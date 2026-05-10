@@ -1,0 +1,25 @@
+# Script output - may contain real user/device data
+*.csv
+*.log
+
+# CVE deduplication tracking file
+CVEsDetected/
+
+# PowerShell transcript files
+*_transcript_*.txt
+
+# Certificates and keys - never commit
+*.pfx
+*.cer
+*.key
+*.p12
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# DS Store (Finder settings)
+*.DS_Store
